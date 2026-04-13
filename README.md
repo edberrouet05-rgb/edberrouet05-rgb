@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=200&section=header&text=Hey,%20I'm%20Edwidge!&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=200&section=header&text=Edwidge%20Berrouet&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
   <a href="README.fr.md">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&width=500&lines=Software+Engineering+Student+%40+%C3%89TS;Full-Stack+Developer;AI+Enthusiast;Next.js+%7C+Supabase+%7C+Gemini+API" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=99999&color=FF0000&center=true&width=500&lines=Software+Engineering+Student+%40+%C3%89TS" />
 </p>
 
 <p align="center">
