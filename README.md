@@ -12,7 +12,7 @@
 
 I'm passionate about building products that are both functional and well-designed. I enjoy working across the full stack — from crafting clean UIs with Next.js and Tailwind to wiring up backends with Supabase and designing AI-powered features.
 
-Currently building **Edwidge**, a student matching web app that uses the Gemini 2.0 Flash API for compatibility scoring between students.
+Currently building **Pair Up**, a student matching web app that uses the Gemini 2.0 Flash API for compatibility scoring between students.
 
 Fluent in 🇫🇷 French and 🇬🇧 English.
 
@@ -63,6 +63,5 @@ Fluent in 🇫🇷 French and 🇬🇧 English.
 ---
 
 ## Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwidge-berrouet)
-[![Gmail](https://img.shields.io/badge/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="026766606770706d776776323742
+[![Gmail](https://img.shields.io/badge/edberrouet05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edberrouet05@gmail.com)
