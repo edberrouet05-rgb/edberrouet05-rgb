@@ -1,10 +1,17 @@
-[![🇫🇷 Version française](https://img.shields.io/badge/🇫🇷-Version%20française-blue)](README.fr.md)
-
-<h1 align="center">Hey, I'm Edwidge 👋</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Hey,%20I'm%20Edwidge!&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  Software engineering student @ <strong>École de Technologie Supérieure</strong> · Montréal 🇨🇦<br/>
-  Building full-stack web apps & integrating AI into real products
+  <a href="README.fr.md">
+    <img src="https://img.shields.io/badge/🇫🇷-Version%20française-blue" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&width=500&lines=Software+Engineering+Student+%40+%C3%89TS;Full-Stack+Developer;AI+Enthusiast;Next.js+%7C+Supabase+%7C+Gemini+API" />
+</p>
+
+<p align="center">
+  Montréal 🇨🇦 · Building full-stack web apps & integrating AI into real products
 </p>
 
 ---
@@ -67,3 +74,5 @@ Fluent in 🇫🇷 French and 🇬🇧 English.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwidge-berrouet)
 [![Gmail](https://img.shields.io/badge/edberrouet05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edberrouet05@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer)
