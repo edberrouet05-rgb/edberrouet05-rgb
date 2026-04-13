@@ -1,5 +1,4 @@
-[![EN](https://img.shields.io/badge/lang-EN-blue)](README.md)
-[![FR](https://img.shields.io/badge/lang-FR-gray)](#)
+[![🇬🇧 English version](https://img.shields.io/badge/🇬🇧-English%20version-blue)](README.md)
 
 <h1 align="center">Salut, je suis Edwidge 👋</h1>
 
