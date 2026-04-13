@@ -22,7 +22,7 @@ Je suis passionné par la création de produits à la fois fonctionnels et bien 
 
 Je travaille actuellement sur **Pair Up**, une application de mise en relation entre étudiants qui utilise l'API Gemini 2.0 Flash pour calculer un score de compatibilité entre utilisateurs.
 
-Bilingue 🇫🇷 Français et 🇬🇧 Anglais.
+Bilingue Français et Anglais.
 
 ---
 
