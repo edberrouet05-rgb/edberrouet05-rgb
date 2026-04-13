@@ -1,10 +1,17 @@
-[![🇬🇧 English version](https://img.shields.io/badge/🇬🇧-English%20version-blue)](README.md)
-
-<h1 align="center">Salut, je suis Edwidge 👋</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=200&section=header&text=Edwidge%20Berrouet&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  Étudiant en génie logiciel @ <strong>École de Technologie Supérieure</strong> · Montréal 🇨🇦<br/>
-  Je construis des applications web full-stack et j'intègre l'IA dans des produits concrets
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇬🇧-English%20version-blue" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=99999&color=FF0000&center=true&width=500&lines=%C3%89tudiant+en+g%C3%A9nie+logiciel+%40+%C3%89TS" />
+</p>
+
+<p align="center">
+  Montréal 🇨🇦 · Je construis des applications web full-stack & j'intègre l'IA dans des produits concrets
 </p>
 
 ---
@@ -13,9 +20,9 @@
 
 Je suis passionné par la création de produits à la fois fonctionnels et bien conçus. J'aime travailler sur toute la chaîne — des interfaces soignées avec Next.js et Tailwind, jusqu'aux backends robustes avec Supabase et les fonctionnalités propulsées par l'IA.
 
-Je travaille actuellement sur **Pair Up**, une application qui aide les étudiants à trouver des partenaires d'étude compatibles grâce à un score de compatibilité généré par l'API Gemini 2.0 Flash.
+Je travaille actuellement sur **Pair Up**, une application de mise en relation entre étudiants qui utilise l'API Gemini 2.0 Flash pour calculer un score de compatibilité entre utilisateurs.
 
-Bilingue Français et Anglais.
+Bilingue 🇫🇷 Français et 🇬🇧 Anglais.
 
 ---
 
@@ -67,3 +74,5 @@ Bilingue Français et Anglais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwidge-berrouet)
 [![Gmail](https://img.shields.io/badge/edberrouet05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edberrouet05@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=120&section=footer)
