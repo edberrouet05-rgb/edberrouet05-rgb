@@ -53,7 +53,6 @@ Fluent in French and English.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=edberrouet05-rgb&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edberrouet05&layout=compact&theme=default&hide_border=true&langs_count=6" height="150" />
 </p>
 
 ---
