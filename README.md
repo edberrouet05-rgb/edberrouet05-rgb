@@ -12,9 +12,9 @@
 
 I'm passionate about building products that are both functional and well-designed. I enjoy working across the full stack — from crafting clean UIs with Next.js and Tailwind to wiring up backends with Supabase and designing AI-powered features.
 
-Currently building **Pair Up**, a student matching web app that uses the Gemini 2.0 Flash API for compatibility scoring between students.
+Currently building **Edwidge**, a student matching web app that uses the Gemini 2.0 Flash API for compatibility scoring between students.
 
-Fluent in French and English.
+Fluent in 🇫🇷 French and 🇬🇧 English.
 
 ---
 
@@ -44,8 +44,13 @@ Fluent in French and English.
 
 **Languages**
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -60,4 +65,4 @@ Fluent in French and English.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwidge-berrouet)
-[![Gmail](https://img.shields.io/badge/edberrouet05@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edberrouet05@gmail.com)
+[![Gmail](https://img.shields.io/badge/<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="026766606770706d776776323742
