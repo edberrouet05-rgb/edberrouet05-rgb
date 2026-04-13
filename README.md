@@ -1,8 +1,11 @@
+[![FR](https://img.shields.io/badge/lang-FR-blue)](README.fr.md)
+[![EN](https://img.shields.io/badge/lang-EN-gray)](#)
+
 <h1 align="center">Hey, I'm Edwidge 👋</h1>
 
 <p align="center">
   Software engineering student @ <strong>École de Technologie Supérieure</strong> · Montréal 🇨🇦<br/>
-  Building full-stack web apps & integrating AI into real products<br/>
+  Building full-stack web apps & integrating AI into real products
 </p>
 
 ---
@@ -62,5 +65,6 @@ Fluent in 🇫🇷 French and 🇬🇧 English.
 ---
 
 ## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwidge-berrouet)
 [![Gmail](https://img.shields.io/badge/edberrouet05%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edberrouet05@gmail.com)
