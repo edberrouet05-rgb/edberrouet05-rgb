@@ -3,7 +3,6 @@
 <p align="center">
   Software engineering student @ <strong>École de Technologie Supérieure</strong> · Montréal 🇨🇦<br/>
   Building full-stack web apps & integrating AI into real products<br/>
-  <em>Open to software engineering internships</em>
 </p>
 
 ---
