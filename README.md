@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm passionate about building products that are both functional and well-designed. I enjoy working across the full stack — from crafting clean UIs with Next.js and Tailwind to wiring up backends with Supabase and designing AI-powered features.
+I'm passionate about building products that are both functional and well-designed. I enjoy working across the full stack, from crafting clean UIs with Next.js and Tailwind to wiring up backends with Supabase and designing AI-powered features.
 
 Currently building **Pair Up**, a student matching web app that uses the Gemini 2.0 Flash API for compatibility scoring between students.
 
