@@ -22,7 +22,7 @@ I'm passionate about building products that are both functional and well-designe
 
 Currently building **Pair Up**, a student matching web app that uses the Gemini 2.0 Flash API for compatibility scoring between students.
 
-Fluent in 🇫🇷 French and 🇬🇧 English.
+Fluent in French and English.
 
 ---
 
