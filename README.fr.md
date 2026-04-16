@@ -26,6 +26,32 @@ Bilingue Français et Anglais.
 
 ---
 
+## 🚀 Projets récents
+
+### [PairUp](https://github.com/JasonRaza/PairUp) · Hackathon · 24h &nbsp; 🏆 Meilleure implémentation Backboard.io — JACHacks 2026
+
+Une application de mise en relation style Tinder pour trouver des partenaires d'étude, construite en 24h à JACHacks. Les étudiants swipent des profils, matchent selon leurs cours et habitudes de travail, et reçoivent une analyse de compatibilité générée par IA. J'ai travaillé sur le backend d'une équipe de 4 — génération de données de test, fonctionnalités temps réel (écran de match en direct & messagerie), intégration de Backboard.io, et quelques contributions frontend.
+
+`Next.js` `Supabase` `Gemini AI` `Backboard.io`
+
+---
+
+### [Odot](https://github.com/ongxrxx/TCH099--Odot) · Projet d'équipe · TCH099
+
+Une application de gestion de tâches gamifiée autour d'une créature virtuelle qui évolue au fil de tes accomplissements et points XP. Inclut une vue calendrier, des tâches en glisser-déposer, des badges, des séries, et une application Android complémentaire.
+
+`Next.js` `React` `Android (Java)`
+
+---
+
+### [Mini Moodle](https://github.com/edberrouet05/Moodle) · Projet d'équipe · TCH057
+
+Un clone Android allégé des fonctionnalités essentielles de Moodle — liste de cours, travaux et vues étudiantes. Communique avec un serveur JSON pour récupérer et persister les données, reproduisant une architecture client-serveur réelle.
+
+`Android Studio` `Java` `JSON Server` `SQLite`
+
+---
+
 ## Stack technique
 
 **Frontend**
