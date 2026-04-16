@@ -30,7 +30,7 @@ Fluent in French and English.
 
 ### [PairUp](https://github.com/JasonRaza/PairUp) · Hackathon · 24h &nbsp; 🏆 Best Backboard.io Implementation — JACHacks 2026
 
-A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights.I worked backend on a team of 4, seed data generation, real-time features (live match screen & messaging), Backboard.io integration, and some frontend work.
+A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights.I worked on the backend of a team of 4, seed data generation, real-time features (live match screen & messaging), Backboard.io integration, and some frontend work.
 
 `Next.js` `Supabase` `Gemini AI` `Backboard.io`
 
@@ -41,6 +41,8 @@ A Tinder-style study partner matching app built in 24 hours at JACHacks. Student
 A student productivity app built around a virtual creature that grows as you complete tasks and earn XP. Includes a calendar, drag-and-drop tasks, badges, streaks, and an Android companion app.
 
 `Next.js` `React` `Android (Java)`
+
+---
 
 ### [Mini Moodle](https://github.com/edberrouet05/Moodle) · TCH057 · Team project
 
