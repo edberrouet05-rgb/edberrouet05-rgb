@@ -91,7 +91,7 @@ Un clone Android allégé des fonctionnalités essentielles de Moodle, liste de 
 ## Statistiques GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edberrouet05-rgb&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=edberrouet05&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
