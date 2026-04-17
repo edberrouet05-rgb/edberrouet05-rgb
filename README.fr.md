@@ -20,8 +20,6 @@
 
 Je suis passionné par la création de produits à la fois fonctionnels et bien conçus. J'aime travailler sur toute la chaîne, des interfaces soignées avec Next.js et Tailwind, jusqu'aux backends robustes avec Supabase et les fonctionnalités propulsées par l'IA.
 
-Je travaille actuellement sur **Pair Up**, une application de mise en relation entre étudiants qui utilise l'API Gemini 2.0 Flash pour calculer un score de compatibilité entre utilisateurs.
-
 Bilingue Français et Anglais.
 
 ---
