@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Montréal 🇨🇦 · Building full-stack web apps & integrating AI into real products
+  Montréal 
 </p>
 
 ---
