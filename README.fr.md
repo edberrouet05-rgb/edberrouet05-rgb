@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Montréal 🇨🇦 · Je construis des applications web full-stack & j'intègre l'IA dans des produits concrets
+  Montréal 
 </p>
 
 ---
